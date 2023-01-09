@@ -1,0 +1,14 @@
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\bin\Debug\netcoreapp3.1\testing 6 gzip.exe
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\bin\Debug\netcoreapp3.1\testing 6 gzip.deps.json
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\bin\Debug\netcoreapp3.1\testing 6 gzip.runtimeconfig.json
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\bin\Debug\netcoreapp3.1\testing 6 gzip.runtimeconfig.dev.json
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\bin\Debug\netcoreapp3.1\testing 6 gzip.dll
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\bin\Debug\netcoreapp3.1\testing 6 gzip.pdb
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\obj\Debug\netcoreapp3.1\testing 6 gzip.csproj.AssemblyReference.cache
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\obj\Debug\netcoreapp3.1\testing 6 gzip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\obj\Debug\netcoreapp3.1\testing 6 gzip.AssemblyInfoInputs.cache
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\obj\Debug\netcoreapp3.1\testing 6 gzip.AssemblyInfo.cs
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\obj\Debug\netcoreapp3.1\testing 6 gzip.csproj.CoreCompileInputs.cache
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\obj\Debug\netcoreapp3.1\testing 6 gzip.dll
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\obj\Debug\netcoreapp3.1\testing 6 gzip.pdb
+C:\Users\utkarshjain\source\repos\TEsting\testing 6 gzip\obj\Debug\netcoreapp3.1\testing 6 gzip.genruntimeconfig.cache

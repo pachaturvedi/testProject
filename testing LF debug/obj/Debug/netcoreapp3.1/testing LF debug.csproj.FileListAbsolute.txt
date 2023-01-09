@@ -1,0 +1,14 @@
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\bin\Debug\netcoreapp3.1\testing LF debug.exe
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\bin\Debug\netcoreapp3.1\testing LF debug.deps.json
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\bin\Debug\netcoreapp3.1\testing LF debug.runtimeconfig.json
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\bin\Debug\netcoreapp3.1\testing LF debug.runtimeconfig.dev.json
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\bin\Debug\netcoreapp3.1\testing LF debug.dll
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\bin\Debug\netcoreapp3.1\testing LF debug.pdb
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\obj\Debug\netcoreapp3.1\testing LF debug.csproj.AssemblyReference.cache
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\obj\Debug\netcoreapp3.1\testing LF debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\obj\Debug\netcoreapp3.1\testing LF debug.AssemblyInfoInputs.cache
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\obj\Debug\netcoreapp3.1\testing LF debug.AssemblyInfo.cs
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\obj\Debug\netcoreapp3.1\testing LF debug.csproj.CoreCompileInputs.cache
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\obj\Debug\netcoreapp3.1\testing LF debug.dll
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\obj\Debug\netcoreapp3.1\testing LF debug.pdb
+C:\Users\utkarshjain\source\repos\TEsting\testing LF debug\obj\Debug\netcoreapp3.1\testing LF debug.genruntimeconfig.cache

@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ueup98HqDsXHD/BSFBnjMypy47zgH38ClhkTwa5zxp4oaOMMRNH+d7dQ5cspcYQ6p6AL/CxYhZoplhG8ckbIuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pachaturvedi\\source\\repos\\TEsting\\TEsting\\testinG2\\testinG2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\azure.storage.blobs\\12.10.0\\azure.storage.blobs.12.10.0.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\azure.storage.common\\12.9.0\\azure.storage.common.12.9.0.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\microsoft.liftr.utilities\\6.2.1579-x\\microsoft.liftr.utilities.6.2.1579-x.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\serilog\\2.9.0\\serilog.2.9.0.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\pachaturvedi\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "testinG2 depends on Microsoft.Liftr.Utilities (>= 6.2.1572-x) but Microsoft.Liftr.Utilities 6.2.1572-x was not found. An approximate best match of Microsoft.Liftr.Utilities 6.2.1579-x was resolved.",
+      "libraryId": "Microsoft.Liftr.Utilities",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

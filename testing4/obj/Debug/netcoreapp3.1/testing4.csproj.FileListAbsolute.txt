@@ -1,0 +1,14 @@
+C:\Users\utkarshjain\source\repos\TEsting\testing4\bin\Debug\netcoreapp3.1\testing4.exe
+C:\Users\utkarshjain\source\repos\TEsting\testing4\bin\Debug\netcoreapp3.1\testing4.deps.json
+C:\Users\utkarshjain\source\repos\TEsting\testing4\bin\Debug\netcoreapp3.1\testing4.runtimeconfig.json
+C:\Users\utkarshjain\source\repos\TEsting\testing4\bin\Debug\netcoreapp3.1\testing4.runtimeconfig.dev.json
+C:\Users\utkarshjain\source\repos\TEsting\testing4\bin\Debug\netcoreapp3.1\testing4.dll
+C:\Users\utkarshjain\source\repos\TEsting\testing4\bin\Debug\netcoreapp3.1\testing4.pdb
+C:\Users\utkarshjain\source\repos\TEsting\testing4\obj\Debug\netcoreapp3.1\testing4.csproj.AssemblyReference.cache
+C:\Users\utkarshjain\source\repos\TEsting\testing4\obj\Debug\netcoreapp3.1\testing4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utkarshjain\source\repos\TEsting\testing4\obj\Debug\netcoreapp3.1\testing4.AssemblyInfoInputs.cache
+C:\Users\utkarshjain\source\repos\TEsting\testing4\obj\Debug\netcoreapp3.1\testing4.AssemblyInfo.cs
+C:\Users\utkarshjain\source\repos\TEsting\testing4\obj\Debug\netcoreapp3.1\testing4.csproj.CoreCompileInputs.cache
+C:\Users\utkarshjain\source\repos\TEsting\testing4\obj\Debug\netcoreapp3.1\testing4.dll
+C:\Users\utkarshjain\source\repos\TEsting\testing4\obj\Debug\netcoreapp3.1\testing4.pdb
+C:\Users\utkarshjain\source\repos\TEsting\testing4\obj\Debug\netcoreapp3.1\testing4.genruntimeconfig.cache
